@@ -1,0 +1,76 @@
+.wawe-sec{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.wawe-main{
+    border-radius: 100%;
+    border-style: dotted !important;
+    border-color: #80808030 !important;
+    position: absolute;
+}
+
+.wawe1{
+    height: 40%;
+    width: 20%;
+    border: 12px;
+    
+}
+
+.wawe2{
+    height: 50%;
+    width: 26%;
+    border: 11px;
+}
+
+
+ .wawe3{
+    height: 60%;
+    width: 32%;
+    border: 10px;
+}
+
+.wawe4{
+    height: 70%;
+    width: 38%;
+    border: 9px;
+}
+
+.wawe5{
+    height: 80%;
+    width: 44%;
+    border: 8px;
+}
+
+.wawe6{
+    height: 90%;
+    width: 50%;
+    border: 7px;
+}
+
+.wawe7{
+    height: 100%;
+    width: 56%;
+    border: 6px;
+}
+
+.wawe8{
+    height: 110%;
+    width: 63%;
+    border: 5px;
+}
+
+.wawe9{
+    height: 120%;
+    width: 69%;
+    border: 4px;
+}
+
+.wawe10{
+    height: 130%;
+    width: 75%;
+    border: 3px;
+}
